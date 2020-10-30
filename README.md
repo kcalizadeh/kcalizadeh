@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9cf)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=kcalizadeh"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kcalizadeh"/>
 
 
 
