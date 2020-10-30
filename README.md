@@ -2,7 +2,8 @@
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9cf)
 
-![Kourosh's github stats](https://github-readme-stats.vercel.app/api?username=kcalizadeh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=kcalizadeh"/>
+
 
 
 <!--
