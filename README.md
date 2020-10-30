@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi, I'm Kourosh 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9cf)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kcalizadeh"/>
+I am a Data Science student at Flatiron School. I hold a PhD in Philosophy and have a strong background in education and research. For more about my professional background, visit my site at kcalizadeh.com
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kcalizadeh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kourosh's GitHub Stats" />
 
 
 <!--
