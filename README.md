@@ -1,5 +1,5 @@
 
-[![Header](https://aslidsiksoraksi.files.wordpress.com/2020/03/mvimg_20200326_084734-2.jpg?w=1024 "Header")](https://www.kcalizadeh.com)
+[![Header](header.jpg "Header")](https://www.kcalizadeh.com)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9cf) 
 ![](https://img.shields.io/badge/Library-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue) 
@@ -20,10 +20,9 @@
 
 # Hello! :)
 
-My name is Kourosh Alizadeh and I'm a data science student at Flatiron School. Originally from the UK and of Persian descent, I hold a PhD in philosophy and have a strong background in education and research. Still getting the hang of transitioning from academia to code, but excited to keep learning.
+My name is Kourosh Alizadeh and I'm a data science student at Flatiron School. Originally from the UK and of Persian descent, I hold a PhD in philosophy and have a strong background in education and research. My hobbies include thinking about fish, watching horror movies, and creative writing. Still getting the hang of transitioning from academia to code, but excited to keep learning.
 
-I like fish, horror movies, abstract art, and expanding my horizons.
-  <img align="right" src="toontoony.jpg" width=240 height=250/>
+<img align="right" src="toontoony.jpg" width=240 height=250/>
 
 ## Code Stuff
 
