@@ -19,19 +19,23 @@
 
 My name is Kourosh Alizadeh and I'm a data science student at Flatiron School. Originally from the UK and of Persian descent, I hold a PhD in philosophy and have a strong background in education and research. Still getting the hang of transitioning from academia to code, but excited to keep learning.
 
-### Code Stuff
+## Code Stuff
 
 🌱 Currently learning TensorFlow & working on Scikit-Learn fluency<br>
 🔭 Working on NLP with Hegel and other philosophy texts; also on modeling dialectical logic with Deep Learning<br>
 👯 Would love to collaborate on Tensorflow projects or research on data in the liberal arts; feel free to reach out :)
 
-### Other Stuff
+## Other Stuff
  :books: Toontoony the Magpie, a book of (very) short stories I wrote<br>
  :cherry_blossom: [aslidsiksoraksi.com](aslidsiksoraksi.com), a blog of my writing, philosophy, and visual art<br>
  :black_nib: currently working on a book of systematic philosophy, though that's a good ways off :thinking: <br>
 
-Feel free to reach out via [email](mailto:kcalizadeh@gmail.com), LinkedIn, or whatever else you like. I do have a personal website if you want to learn more - [kcalizadeh.com](kcalizadeh.com)<br>
+Feel free to reach out via [![alt text](mail-fill.png)](mailto:kcalizadeh@gmail.com)[email](mailto:kcalizadeh@gmail.com), [![LinkedIn][3.2]](https://www.linkedin.com/in/kourosh-alizadeh-phd-68b51861/) [LinkedIn](https://www.linkedin.com/in/kourosh-alizadeh-phd-68b51861/), or [![Twitter][1.2]](twitter.com/aslidsiksoraksi)[whatever else you like](twitter.com/aslidsiksoraksi). I do have a personal website as well - [kcalizadeh.com](kcalizadeh.com)<br>
 Thanks!
+
+[3.2]: linkedin-box-fill.png
+[1.2]: twitter-fill.png
+
 
 <!-- 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kcalizadeh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kourosh's GitHub Stats" />
