@@ -22,7 +22,7 @@
 
 My name is Kourosh Alizadeh and I'm a data science student at Flatiron School. Originally from the UK and of Persian descent, I hold a PhD in philosophy and have a strong background in education and research. Still getting the hang of transitioning from academia to code, but excited to keep learning.
 
-  <img align="right" src="toontoony.jpg" width=480 height=500/>
+  <img align="right" src="toontoony.jpg" width=240 height=250/>
 
 ## Code Stuff
 
