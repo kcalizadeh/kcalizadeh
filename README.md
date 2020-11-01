@@ -2,6 +2,9 @@
 [![Header](https://aslidsiksoraksi.files.wordpress.com/2020/03/mvimg_20200326_084734-2.jpg?w=1024 "Header")](https://www.kcalizadeh.com)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9cf) 
+![](https://img.shields.io/badge/Library-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue) 
+![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue) 
+![](https://img.shields.io/badge/Library-Scikit-Learn-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/Education-PhD-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange) 
 ![](https://img.shields.io/badge/Experience-Philosophy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red) 
 ![](https://img.shields.io/badge/Experience-Teaching-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red) 
@@ -30,7 +33,7 @@ My name is Kourosh Alizadeh and I'm a data science student at Flatiron School. O
  :cherry_blossom: [aslidsiksoraksi.com](aslidsiksoraksi.com), a blog of my writing, philosophy, and visual art<br>
  :black_nib: currently working on a book of systematic philosophy, though that's a good ways off :thinking: <br>
 
-Feel free to reach out via [![alt text](mail-fill.png)](mailto:kcalizadeh@gmail.com)[email](mailto:kcalizadeh@gmail.com), [![LinkedIn][3.2]](https://www.linkedin.com/in/kourosh-alizadeh-phd-68b51861/) [LinkedIn](https://www.linkedin.com/in/kourosh-alizadeh-phd-68b51861/), or [![Twitter][1.2]](twitter.com/aslidsiksoraksi)[whatever else you like](twitter.com/aslidsiksoraksi). I do have a personal website as well - [kcalizadeh.com](kcalizadeh.com)<br>
+Feel free to reach out via [![](mail-fill.png)](mailto:kcalizadeh@gmail.com)[email](mailto:kcalizadeh@gmail.com), [![LinkedIn][3.2]](https://www.linkedin.com/in/kourosh-alizadeh-phd-68b51861/) [LinkedIn](https://www.linkedin.com/in/kourosh-alizadeh-phd-68b51861/), or [![Twitter][1.2]](twitter.com/aslidsiksoraksi)[whatever else you like](twitter.com/aslidsiksoraksi). I do have a personal website as well - [kcalizadeh.com](kcalizadeh.com)<br>
 Thanks!
 
 [3.2]: linkedin-box-fill.png
