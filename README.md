@@ -6,8 +6,28 @@
 
 # Hello! :)
 
-My name is Kourosh Alizadeh and I'm a data science student at Flatiron School. Originally from the UK and of Persian descent, I hold a PhD in philosophy and have a strong background in education and research. Still getting the hang of transitioning from the liberal arts to code, but excited to keep learning.
+My name is Kourosh Alizadeh and I'm a data science student at Flatiron School. Originally from the UK and of Persian descent, I hold a PhD in philosophy and have a strong background in education and research. Still getting the hang of transitioning from academia to code, but excited to keep learning.
+<!-- 
+#### Code Stuff
 
+🌱 Currently learning TensorFlow & working on Scikit-Learn fluency
+🔭 Working on NLP with Hegel and other philosophy texts
+👯 Would love to collaborate on Tensorflow projects or <br>
+&nbsp;&nbsp;&nbsp;&nbsp; research on data in the liberal arts; feel free to reach out :) -->
+
+<table border="0">
+      <tr>
+        <td style='border:none;'><h1> Code Stuff</h1>
+
+🌱 Currently learning TensorFlow & working on Scikit-Learn fluency
+🔭 Working on NLP with Hegel and other philosophy texts
+👯 Would love to collaborate on Tensorflow projects or <br>research on data in the liberal arts; feel free to reach out :)</td>
+        <td style='border:none;'><h1> Other Stuff </h1>
+        Toontoony the Magpie, a book of (very) short stories I wrote
+        aslidsiksoraksi.com, a blog of my writing, philosophy, and visual art
+        </td>
+      </tr>
+    </table>
 
 
 
