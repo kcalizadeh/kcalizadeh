@@ -1,21 +1,26 @@
 
 [![Header](https://aslidsiksoraksi.files.wordpress.com/2020/03/mvimg_20200326_084734-2.jpg?w=1024 "Header")](https://www.kcalizadeh.com)
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9cf)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9cf) 
+![](https://img.shields.io/badge/Education-PhD-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9cf) 
+![](https://img.shields.io/badge/Experience-Philosophy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9cf) 
+![](https://img.shields.io/badge/Experience-Teaching-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9cf) 
+![](https://img.shields.io/badge/Education-PhD-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9cf) 
+
+
 
 
 # Hello! :)
 
 My name is Kourosh Alizadeh and I'm a data science student at Flatiron School. Originally from the UK and of Persian descent, I hold a PhD in philosophy and have a strong background in education and research. Still getting the hang of transitioning from academia to code, but excited to keep learning.
 
-#### Code Stuff
+### Code Stuff
 
 🌱 Currently learning TensorFlow & working on Scikit-Learn fluency<br>
 🔭 Working on NLP with Hegel and other philosophy texts<br>
-👯 Would love to collaborate on Tensorflow projects or <br>
-&nbsp;&nbsp;&nbsp;&nbsp; research on data in the liberal arts; feel free to reach out :)
+👯 Would love to collaborate on Tensorflow projects or research on data in the liberal arts; feel free to reach out :)
 
-#### Other Stuff 
+### Other Stuff 
  :books: Toontoony the Magpie, a book of (very) short stories I wrote<br>
  :cherry_blossom: aslidsiksoraksi.com, a blog of my writing, philosophy, and visual art<br>
 
