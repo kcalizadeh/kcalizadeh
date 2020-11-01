@@ -5,6 +5,7 @@
 ![](https://img.shields.io/badge/Education-PhD-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange) 
 ![](https://img.shields.io/badge/Experience-Philosophy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red) 
 ![](https://img.shields.io/badge/Experience-Teaching-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red) 
+![](https://img.shields.io/badge/Experience-Research_Management-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Interest-Data_Science-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Interest-NLP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=success) 
 ![](https://img.shields.io/badge/Interest-Deep_Learning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=success) 
@@ -24,10 +25,13 @@ My name is Kourosh Alizadeh and I'm a data science student at Flatiron School. O
 🔭 Working on NLP with Hegel and other philosophy texts<br>
 👯 Would love to collaborate on Tensorflow projects or research on data in the liberal arts; feel free to reach out :)
 
-### Other Stuff 
+### Other Stuff
  :books: Toontoony the Magpie, a book of (very) short stories I wrote<br>
  :cherry_blossom: aslidsiksoraksi.com, a blog of my writing, philosophy, and visual art<br>
+ :black_nib: currently working on a book of systematic philosophy, though that's a good ways off :thinking: <br>
 
+Feel free to reach out via email, LinkedIn, or whatever else you like. I do have a personal website if you want to learn more - kcalizadeh.com
+Thanks!
 
 <!-- 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kcalizadeh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kourosh's GitHub Stats" />
