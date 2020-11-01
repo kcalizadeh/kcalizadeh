@@ -20,7 +20,7 @@
 
 # Hello! :)
 
-My name is Kourosh Alizadeh and I'm a data science student at Flatiron School. Originally from the UK and of Persian descent, I hold a PhD in philosophy and have a strong background in education and research. My hobbies include thinking about fish, watching horror movies, and creative writing. Still getting the hang of transitioning from academia to code, but excited to keep learning.
+My name is Kourosh Alizadeh and I'm a data science student at Flatiron School. Originally from the UK and of Persian descent, I hold a PhD in philosophy and have a strong background in education and research. My hobbies include thinking about fish, watching horror movies, and random artsy stuff. Still getting the hang of transitioning from academia to code, but excited to keep learning.
 
 <img align="right" src="toontoony.jpg" width=240 height=250/>
 
