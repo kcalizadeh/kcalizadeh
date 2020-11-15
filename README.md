@@ -2,7 +2,7 @@
 [![Header](header.jpg "Header")](https://www.kcalizadeh.com)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9cf) 
-![](https://img.shields.io/badge/Library-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue) 
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9cf) 
 ![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/Library-Scikit_Learn-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/Education-PhD-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange) 
