@@ -28,7 +28,7 @@ My name is Kourosh Alizadeh and I'm a data science student at Flatiron School. O
 
 🌱 Currently learning TensorFlow & working on Scikit-Learn fluency. Also Javascript<br>
 🔭 Working on NLP with Hegel and other philosophy texts; also on modeling dialectical logic with Deep Learning<br>
-👯 Would love to collaborate on Tensorflow projects or research on data in the liberal arts; feel free to reach out
+👯 Would love to collaborate on Tensorflow projects or research on data in the liberal arts; feel free to reach out!
 
 ## Other Stuff
  :books: [Toontoony the Magpie](https://www.amazon.com/Toontoony-Magpie-Kourosh-Alizadeh-ebook/dp/B007XVJQ04/ref=sr_1_1?dchild=1&keywords=toontoony&sr=8-1), a book of (very) short stories I wrote<br>
