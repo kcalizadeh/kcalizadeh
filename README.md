@@ -26,16 +26,16 @@ My name is Kourosh Alizadeh and I'm a data science student at Flatiron School. O
 
 ## Code Stuff
 
-🌱 Currently learning TensorFlow & working on Scikit-Learn fluency. Also Javascript<br>
-🔭 Working on NLP with Hegel and other philosophy texts; also on modeling dialectical logic with Deep Learning<br>
-👯 Would love to collaborate on Tensorflow projects or research on data in the liberal arts; feel free to reach out!
+🌱 Just graduated from Flatiron School, looking for great opportunities in Data Science<br>
+🔭 Working on the [Philosophy Data Project](http://philosophydata.com) - NLP with texts from the history of philosophy<br>
+👯 Would love to collaborate on NLP projects or research on data in the liberal arts; feel free to reach out!
 
 ## Other Stuff
  :books: [Toontoony the Magpie](https://www.amazon.com/Toontoony-Magpie-Kourosh-Alizadeh-ebook/dp/B007XVJQ04/ref=sr_1_1?dchild=1&keywords=toontoony&sr=8-1), a book of (very) short stories I wrote<br>
- :cherry_blossom: [aslidsiksoraksi.com](aslidsiksoraksi.com), a blog of my writing, philosophy, and visual art<br>
+ :cherry_blossom: my personal website - [kcalizadeh.com](https://www.kcalizadeh.com)
  :black_nib: currently working on a book of systematic philosophy, though that's a good ways off :thinking: <br>
 
-Feel free to reach out via [![](mail-fill.png)](mailto:kcalizadeh@gmail.com)[email](mailto:kcalizadeh@gmail.com), [![LinkedIn][3.2]](https://www.linkedin.com/in/kourosh-alizadeh-phd-68b51861/) [LinkedIn](https://www.linkedin.com/in/kourosh-alizadeh-phd-68b51861/), or [![Twitter][1.2]](twitter.com/aslidsiksoraksi)[whatever else you like](twitter.com/aslidsiksoraksi). I do have a personal website as well - [kcalizadeh.com](kcalizadeh.com)<br>
+Feel free to reach out via [![](mail-fill.png)](mailto:kcalizadeh@gmail.com)[email](mailto:kcalizadeh@gmail.com), [![LinkedIn][3.2]](https://www.linkedin.com/in/kourosh-alizadeh-phd-68b51861/) [LinkedIn](https://www.linkedin.com/in/kourosh-alizadeh-phd-68b51861/), or [![Twitter][1.2]](twitter.com/aslidsiksoraksi)[whatever else you like](twitter.com/aslidsiksoraksi).
 Thanks!
 
 [3.2]: linkedin-box-fill.png
