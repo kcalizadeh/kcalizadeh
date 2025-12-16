@@ -18,12 +18,12 @@
 
 # Hello! :)
 
-My name is Kourosh Alizadeh and I'm a data scientist recently graduated from Flatiron School. Originally from the UK and of Persian descent, I hold a PhD in philosophy and have a strong background in education and research. My hobbies include thinking about fish, watching horror movies, and random artsy stuff. Still getting the hang of transitioning from academia to code, but excited to keep learning.
+My name is Kourosh Alizadeh and I'm a data and solutions architect. Originally from the UK and of Persian descent, I hold a PhD in philosophy and have a strong background in education, research, and the public sector. My hobbies include thinking about fish, watching horror movies, and random artsy stuff. 
 
-<img align="right" src="toontoony.jpg" width=240 height=250/>
+
 
 ## This & That
-
+<img align="right" src="toontoony.jpg" width=240 height=250/>
 🔭 Working on the [Philosophy Data Project](http://philosophydata.com) - NLP with texts from the history of philosophy<br>
 👯 Would love to collaborate on NLP projects or research on data in the liberal arts; feel free to reach out!
 📓 [Toontoony the Magpie](https://www.amazon.com/Toontoony-Magpie-Kourosh-Alizadeh-ebook/dp/B007XVJQ04/ref=sr_1_1?dchild=1&keywords=toontoony&sr=8-1), a book of (very) short stories I wrote<br>
