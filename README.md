@@ -11,8 +11,6 @@
 ![](https://img.shields.io/badge/Experience-Research_Management-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Interest-Data_Science-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Interest-NLP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=success) 
-![](https://img.shields.io/badge/Interest-Deep_Learning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=success) 
-![](https://img.shields.io/badge/Interest-TensorFlow-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=success) 
 
 
 
@@ -28,13 +26,16 @@ My name is Kourosh Alizadeh and I'm a data scientist recently graduated from Fla
 
 🔭 Working on the [Philosophy Data Project](http://philosophydata.com) - NLP with texts from the history of philosophy<br>
 👯 Would love to collaborate on NLP projects or research on data in the liberal arts; feel free to reach out!
- :books: [Toontoony the Magpie](https://www.amazon.com/Toontoony-Magpie-Kourosh-Alizadeh-ebook/dp/B007XVJQ04/ref=sr_1_1?dchild=1&keywords=toontoony&sr=8-1), a book of (very) short stories I wrote<br>
+📓 [Toontoony the Magpie](https://www.amazon.com/Toontoony-Magpie-Kourosh-Alizadeh-ebook/dp/B007XVJQ04/ref=sr_1_1?dchild=1&keywords=toontoony&sr=8-1), a book of (very) short stories I wrote<br>
 
 Feel free to reach out via [![](mail-fill.png)](mailto:kcalizadeh@gmail.com)[email](mailto:kcalizadeh@gmail.com) or [![LinkedIn][3.2]](https://www.linkedin.com/in/kourosh-alizadeh-phd-68b51861/) [LinkedIn](https://www.linkedin.com/in/kourosh-alizadeh-phd-68b51861/).
 Thanks!
 
 [3.2]: linkedin-box-fill.png
-[1.2]: twitter-fill.png
+
+
+
+
 
 <!-- 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kcalizadeh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kourosh's GitHub Stats" />
