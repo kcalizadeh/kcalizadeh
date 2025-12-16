@@ -24,13 +24,12 @@ My name is Kourosh Alizadeh and I'm a data and solutions architect. Originally f
 
 ## This & That
 <img align="right" src="toontoony.jpg" width=240 height=250>
-🔭 Working on the Philosophy Data Project [friend](www.philosophydata.com) - NLP with texts from the history of philosophy<br>
+🔭 Working on the Philosophy Data Project [(www.philosophydata.com) - NLP with texts from the history of philosophy<br>
 👯 Would love to collaborate on NLP projects or research on data in the liberal arts; feel free to reach out!<br>
-📓 Toontoony the Magpie, a book of (very) short stories I wrote [adf](https://www.amazon.com/Toontoony-Magpie-Kourosh-Alizadeh-ebook/dp/B007XVJQ04/ref=sr_1_1?dchild=1&keywords=toontoony&sr=8-1)<br>
+📓 Toontoony the Magpie, a book of (very) short stories I wrote (https://www.amazon.com/Toontoony-Magpie-Kourosh-Alizadeh-ebook/dp/B007XVJQ04/ref=sr_1_1?dchild=1&keywords=toontoony&sr=8-1)<br>
 <br>
 <br>
-Feel free to reach out via [![email][3.1]](mail-fill.png)](mailto:kcalizadeh@gmail.com)[email](mailto:kcalizadeh@gmail.com) or [![LinkedIn][3.2]](https://www.linkedin.com/in/kourosh-alizadeh-phd-68b51861/) [LinkedIn](https://www.linkedin.com/in/kourosh-alizadeh-phd-68b51861/).
-Thanks!
+Feel free to reach out via email or LinkedIn. Thanks!
 
 [3.2]: linkedin-box-fill.png
 [3.1]: mail-fill.png
