@@ -26,7 +26,7 @@ My name is Kourosh Alizadeh and I'm a data and solutions architect. Originally f
 <img align="right" src="toontoony.jpg" width=240 height=250>
 🔭 Working on the Philosophy Data Project (www.philosophydata.com) - NLP with texts from the history of philosophy<br>
 👯 Would love to collaborate on NLP projects or research on data in the liberal arts; feel free to reach out!<br>
-📓 Toontoony the Magpie, a book of (very) short stories I wrote (https://www.amazon.com/Toontoony-Magpie-Kourosh-Alizadeh-ebook/dp/B007XVJQ04/ref=sr_1_1?dchild=1&keywords=toontoony&sr=8-1)<br>
+📓 Toontoony the Magpie, a book of (very) short stories I wrote ([https://www.amazon.com/Toontoony-Magpie-Kourosh-Alizadeh-ebook/dp/B007XVJQ04/ref=sr_1_1?dchild=1&keywords=toontoony&sr=8-1](https://www.amazon.com/Toontoony-Magpie-Kourosh-Alizadeh-ebook/dp/B007XVJQ04))<br>
 <br>
 <br>
 Feel free to reach out via email or LinkedIn. Thanks!
